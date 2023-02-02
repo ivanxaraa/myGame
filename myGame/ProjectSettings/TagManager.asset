@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Hokey
+  - Speed
+  - Enemy
+  - Nave
+  - Obstaculo
+  - EnemyFly
+  - Jump
+  - Mini
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Coins
+  - PostProcessing
+  - Enemy
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 276877829
+    locked: 0
+  - name: Background Obj
+    uniqueID: 3781099625
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 1631961965
+    locked: 0
+  - name: Player
+    uniqueID: 3053252901
+    locked: 0
+  - name: Canvas
+    uniqueID: 3570062153
+    locked: 0

@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: f704530fe0862fc459aa986f0724b0c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4981026042599214682
+    second: Player_T_Pouse_0
+  - first:
+      213: -6837818652599713430
+    second: Player_T_Pouse_1
+  - first:
+      213: -8226612686332613670
+    second: Player_T_Pouse_2
+  - first:
+      213: 6485340061136473019
+    second: Player_T_Pouse_3
+  - first:
+      213: 7799576947119967778
+    second: Player_T_Pouse_4
+  - first:
+      213: -2704315171712510009
+    second: Player_T_Pouse_5
+  - first:
+      213: 7766557847171553493
+    second: Player_T_Pouse_6
+  - first:
+      213: -2739312135168386124
+    second: Player_T_Pouse_7
+  - first:
+      213: -8684327228298113945
+    second: Player_T_Pouse_8
+  - first:
+      213: 6724538760998663319
+    second: Player_T_Pouse_9
+  - first:
+      213: -3544363405121159354
+    second: Player_T_Pouse_10
+  - first:
+      213: 5413614189731297327
+    second: Player_T_Pouse_11
+  - first:
+      213: 1618265947538158948
+    second: Player_T_Pouse_12
+  - first:
+      213: 7625589329711690694
+    second: Player_T_Pouse_13
+  - first:
+      213: 2574534591509704156
+    second: Player_T_Pouse_14
+  - first:
+      213: -3280052363725241528
+    second: Player_T_Pouse_15
+  - first:
+      213: -7954919200495245973
+    second: Player_T_Pouse_16
+  - first:
+      213: 2987747240848877761
+    second: Player_T_Pouse_17
+  - first:
+      213: 1891877085248336370
+    second: Player_T_Pouse_18
+  - first:
+      213: -3261907412513613688
+    second: Player_T_Pouse_19
+  - first:
+      213: -6328769793054959025
+    second: Player_T_Pouse_20
+  - first:
+      213: 5666108422783844062
+    second: Player_T_Pouse_21
+  - first:
+      213: 5477424219526710961
+    second: Player_T_Pouse_22
+  - first:
+      213: 4198335097718714912
+    second: Player_T_Pouse_23
+  - first:
+      213: -1171720879129665263
+    second: Player_T_Pouse_24
+  - first:
+      213: -153624801256463446
+    second: Player_T_Pouse_25
+  - first:
+      213: 1366321886560296029
+    second: Player_T_Pouse_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_T_Pouse_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e881e8bc8202540800000000000000
+      internalID: 4981026042599214682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61014de9203b11a0800000000000000
+      internalID: -6837818652599713430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_2
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb2c66295335dd80800000000000000
+      internalID: -8226612686332613670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_3
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb46afbc6e800a50800000000000000
+      internalID: 6485340061136473019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_4
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4963d8e9ad3c60800000000000000
+      internalID: 7799576947119967778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_5
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 122
+        width: 382
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7506deda7587ad0800000000000000
+      internalID: -2704315171712510009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_6
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8de28863b58cb60800000000000000
+      internalID: 7766557847171553493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_7
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1f5660220cf9d0800000000000000
+      internalID: -2739312135168386124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_8
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc90cb5621b7780800000000000000
+      internalID: -8684327228298113945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_9
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794bbafff5c525d50800000000000000
+      internalID: 6724538760998663319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_10
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ffbda0344efcec0800000000000000
+      internalID: -3544363405121159354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_11
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28b2f94c65012b40800000000000000
+      internalID: 5413614189731297327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_12
+      rect:
+        serializedVersion: 2
+        x: 6061
+        y: 122
+        width: 382
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657f1b2e4c357610800000000000000
+      internalID: 1618265947538158948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_13
+      rect:
+        serializedVersion: 2
+        x: 6562
+        y: 122
+        width: 382
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c37970e71983d960800000000000000
+      internalID: 7625589329711690694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_14
+      rect:
+        serializedVersion: 2
+        x: 7063
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd24ec02959ab320800000000000000
+      internalID: 2574534591509704156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_15
+      rect:
+        serializedVersion: 2
+        x: 7564
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8430a7fe0c9ea72d0800000000000000
+      internalID: -3280052363725241528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_16
+      rect:
+        serializedVersion: 2
+        x: 8065
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65eb8552237a9190800000000000000
+      internalID: -7954919200495245973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_17
+      rect:
+        serializedVersion: 2
+        x: 8560
+        y: 122
+        width: 382
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c86379294c967920800000000000000
+      internalID: 2987747240848877761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_18
+      rect:
+        serializedVersion: 2
+        x: 9061
+        y: 122
+        width: 382
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1bde87f2c414a10800000000000000
+      internalID: 1891877085248336370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_19
+      rect:
+        serializedVersion: 2
+        x: 9562
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88899ea9d706bb2d0800000000000000
+      internalID: -3261907412513613688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_20
+      rect:
+        serializedVersion: 2
+        x: 10062
+        y: 122
+        width: 376
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a9cbb8761bb28a0800000000000000
+      internalID: -6328769793054959025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_21
+      rect:
+        serializedVersion: 2
+        x: 10564
+        y: 122
+        width: 375
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede31e6179f02ae40800000000000000
+      internalID: 5666108422783844062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_22
+      rect:
+        serializedVersion: 2
+        x: 11071
+        y: 122
+        width: 362
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6c2099e48b30c40800000000000000
+      internalID: 5477424219526710961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_23
+      rect:
+        serializedVersion: 2
+        x: 11572
+        y: 122
+        width: 356
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0223493178b734a30800000000000000
+      internalID: 4198335097718714912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_24
+      rect:
+        serializedVersion: 2
+        x: 12080
+        y: 122
+        width: 342
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111619781163dbfe0800000000000000
+      internalID: -1171720879129665263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_25
+      rect:
+        serializedVersion: 2
+        x: 12581
+        y: 122
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa32b64ae073eddf0800000000000000
+      internalID: -153624801256463446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_T_Pouse_26
+      rect:
+        serializedVersion: 2
+        x: 13082
+        y: 122
+        width: 336
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9449448626f210800000000000000
+      internalID: 1366321886560296029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
